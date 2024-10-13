@@ -1,124 +1,51 @@
----
-layout: default
----
-<div class="container">
-  <div class="post-title-box">
-    <div class="row">
-      <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
-        <span class="post__date">
-          <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
-        </span>
-
-        <h1 class="post-title">{{ page.title | escape }}</h1>
-
-        <div class="post__info">
-          <div class="post__author">
-            <span>By</span>
-            <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
-          </div>
-
-          {% if page.tags.size >= 1 %}
-          <div class="post__tags">
-            {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
-            {% endfor %}
-          </div>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-
-  {% assign no-image = nil %}
-  {% if page.image %}
-    <div class="post__head">
-      <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
-    </div>
-  {% else %}
-    {% assign no-image = 'post-no-image' %}
-  {% endif %}
-
-  </div>
-
-
-  <div class="container">
-  <div class="row">
-    <!-- begin post -->
-    <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
-
-      <div class="post__content">
-        {{ content }}
-      </div>
-
-      <div class="post__share">
-        <span class="share__title">Share this article:</span>
-        <ul class="share__list list-reset">
-          <li class="share__item">
-            <a class="share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-              title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
-          </li>
-
-          <li class="share__item">
-            <a class="share__twitter" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-              title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
-          </li>
-
-          <li class="share__item">
-            <a class="share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title | uri_escape }}&summary={{ page.description | uri_escape }}&source={{ site.title | uri_escape }}"
-              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
-          </li>
-
-          <li class="share__item">
-            <a class="share__pinterest" href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&amp;media={{ site.url }}{{ site.baseurl }}/images/{{ page.image }}&amp;description={{ page.title | uri_escape }}"
-              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
-              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
-          </li>
-        </ul>
-      </div>
-    </article>
-    <!-- end post -->
-    </div>
-  </div>
-
-  <div class="container">
-  <div class="post__navigation">
-    {% if page.previous.url %}
-    <div class="prev">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
-      <h2 class="post__nav__title">
-        <i class="ion ion-md-arrow-back"></i>
-        <a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
-      </h2>
-      <p class="prev__excerpt">
-        {% if page.previous.description %}
-          {{ page.previous.description }}
-        {% else %}
-          {{ page.previous.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
-    </div>
-    {% endif %}
-
-    {% if page.next.url %}
-    <div class="next">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
-      </a>
-      <h2 class="post__nav__title">
-        <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a>
-        <i class="ion ion-md-arrow-forward"></i>
-      </h2>
-      <p class="next__excerpt">
-        {% if page.next.description %}
-          {{ page.next.description }}
-        {% else %}
-          {{ page.next.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
-    </div>
-    {% endif %}
-  </div>
-
-  {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
-  </div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p7 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+    span.s1 {font-kerning: none}
+    span.s2 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s3 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
+    span.s4 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+    span.s5 {text-decoration: underline ; font-kerning: none}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default ---</span></p>
+<p class="p1"><span class="s1">{{page.date | date: '%b %d, %Y'}}</span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title | escape }}</b></span></h1>
+<p class="p3"><span class="s2">By <a href="file:///Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/_layouts/%7B%7B%20site.baseurl%20%7D%7D/about/"><span class="s3">{{site.data.settings.author.name}}</span></a></span></p>
+<p class="p1"><span class="s1">{% if page.tags.size &gt;= 1 %}</span></p>
+<p class="p1"><span class="s1">{% for tag in page.tags %} <a href="file:///Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/_layouts/%7B%7B%20site.baseurl%20%7D%7D/tag/%7B%7B%20tag%20%7C%20downcase%20%7C%20replace:"><span class="s4">{{ tag }}</span></a> {% endfor %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p1"><span class="s1">{% assign no-image = nil %} {% if page.image %}</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% else %} {% assign no-image = 'post-no-image' %} {% endif %}</span></p>
+<p class="p1"><span class="s1">{{ content }}</span></p>
+<p class="p1"><span class="s1">Share this article:</span></p>
+<ul class="ul1">
+  <li class="li5"></li>
+  <li class="li5"></li>
+  <li class="li5"></li>
+  <li class="li5"></li>
+</ul>
+<p class="p1"><span class="s1">{% if page.previous.url %}</span></p>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s5"><a href="file:///Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/_layouts/%7B%7B%20site.baseurl%20%7D%7D%7B%7Bpage.previous.url%7D%7D"><b>{{page.previous.title}}</b></a></span></h2>
+<p class="p7"><span class="s1">{% if page.previous.description %} {{ page.previous.description }} {% else %} {{ page.previous.content | strip_html | truncate: 110 }} {% endif %}</span></p>
+<p class="p1"><span class="s1">{% endif %} {% if page.next.url %}</span></p>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s5"><a href="file:///Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/_layouts/%7B%7B%20site.baseurl%20%7D%7D%7B%7Bpage.next.url%7D%7D"><b>{{page.next.title}}</b></a></span></h2>
+<p class="p7"><span class="s1">{% if page.next.description %} {{ page.next.description }} {% else %} {{ page.next.content | strip_html | truncate: 110 }} {% endif %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p1"><span class="s1">{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}</span></p>
+</body>
+</html>

@@ -3,7 +3,7 @@
   border-top: 1px solid $light-gray;
 
   .page-title {
-    font-size: 57px;
+    font-size: 50px;
     line-height: 70px;
     margin: 0;
   }
@@ -21,7 +21,7 @@
 .page__head {
   
   .page-image {
-    background-size: cover;
+    background-size: 80%; 
     background-position: center;
     background-repeat: no-repeat;
     background-color: $light-gray;
@@ -29,8 +29,8 @@
       content: "";
       display: table;
       width: 100%;
-      min-height: 300px;
-      padding-top: 50%;
+      min-height: 700px;
+      padding-top: 70%;
     }
   }
 }

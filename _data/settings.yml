@@ -1,26 +1,25 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Changwoo Han
+logo: logo.jpeg # You can add own logo.
+description: Changwoo's personal blog
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Changwoo Han
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, I’m <strong>Changwoo Han</strong>
+  bio: I am environmental epidemiologist who researches about health effects of <strong> natural and environmental disasters</strong>. I share my researches, thoughts and daily life with this blog. Loves <a href="#">music</a> & my wife Judy.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://x.com/nejm_han # Add your Twitter handle
+facebook: https://www.facebook.com/hanchangwooo/ # Add your Facebook handle
+instagram: https://www.instagram.com/nejm_han/ # Add your Instagram handle
+
 
 
 #-------------------------------
@@ -31,7 +30,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: nejm_han # Add instagram username
 
 
 #-------------------------------
