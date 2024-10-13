@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Publications
+layout: archive
+title: Publi
 permalink: /publications/
+author_profile: true
 ---
 
 ***
