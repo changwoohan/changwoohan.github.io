@@ -1,0 +1,15 @@
+<div class="post-item">
+  <h2 class="post-title" style="font-size: 20px !important; color: black !important;">
+    <a href="{{ post.link }}" target="_blank">{{ post.title }}</a>
+  </h2>
+  <p class="post-meta">
+    <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br>
+    <strong>Venue:</strong> {{ post.venue }}<br>
+  </p>
+  <p class="post-citation">
+    {{ post.citation | markdownify }}
+  </p>
+  {% if post.paperurl %}
+    <p><a href="{{ post.paperurl }}" target="_blank">Download PDF</a></p>
+  {% endif %}
+</div>

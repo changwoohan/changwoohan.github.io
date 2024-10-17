@@ -1,0 +1,10 @@
+<div class="post-item" style="margin-bottom: 30px;"> <!-- Adjust the margin value as needed -->
+<h2 class="post-title" style="font-size: 18px; color: black; margin-bottom: 5px;"> <!-- Adjust the margin-bottom -->
+  <a href="{{ post.link }}" target="_blank">{{ post.title }}</a>
+</h2>
+<p class="post-meta" style="margin-bottom: 5px;"> <!-- Make the spacing equal to the one used for title -->
+  <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br>
+  <strong>Journal:</strong> {{ post.journal }}<br>
+  <strong>Authors:</strong> {{ post.authors }}<br>
+</p>
+</div>
