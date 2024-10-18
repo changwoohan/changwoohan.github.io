@@ -7,11 +7,11 @@ permalink: /researches/
 
 ***
 
-### HEADs: Health, Environment, and Disaster studies
+### HEADS: Health, Environment, And Disaster Studies
 
 I am focusing on evaluating the health effects of unexpected natural disasters or sudden societal changes using the registered data of Korea.
 
-저는 주로 우리사회에서 발생하는 자연 및 환경 재난과 갑작스러운 사회변화가 지역사회 주민에게 미치는 건강영향을 2차자료원을 활용하여 평가하고 있습니다. 
+저는 우리사회에서 발생하는 자연 및 환경 재난과 갑작스러운 사회변화가 지역사회 주민에게 미치는 건강영향을 이차자료를 활용하여 평가하고 있습니다. 
 
 ***
 
@@ -20,8 +20,8 @@ I am focusing on evaluating the health effects of unexpected natural disasters o
 {% highlight markdown %}
 Health and environmental effects of: 
 * Cyclones
-* Earthquakes (e.g., 2016 Gyeongju city, 2017 Pohang city)
-* Wildfires (e.g., 2022 uljin wildfire, 2023 Gangreung wildfire)
+* Earthquakes 
+* Wildfires 
 * Industrial fires
 * Heavy rainfall and flood
 * COVID-19
@@ -33,7 +33,7 @@ Health and environmental effects of:
 ### Data sources
 
 {% highlight markdown %}
-All secondary data sources particularly including 
+All secondary data sources including
 * Mortality data provided by Statistics Korea
 * Nationwide health insurance data of Korea provided by NHIS
 * Governmental air pollution monitoring data 
@@ -45,13 +45,13 @@ All secondary data sources particularly including
 
 {% highlight markdown %}
 Quasi-experimental methods:
-* Difference-in-difference analysis
-* Interrupted time-series analysis
-* Generalized synthetic control analysis 
+* Difference-in-difference
+* Interrupted time-series
+* Generalized synthetic control 
 * PS matching 
 * G-computation
 
-Conventional epidemiological analysis 
+Conventional epidemiological methods:
 * Cross-sectional and longitudinal data analysis
 * Health impact assessment 
 {% endhighlight %}

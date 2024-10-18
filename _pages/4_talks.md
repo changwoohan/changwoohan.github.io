@@ -5,8 +5,8 @@ permalink: /talks/
 ---
 
 ***
-Here are presentations I gave in the past. Some are in Korean and some in English.<br>
-아래는 제가 수행한 학술 및 심포지엄 발표입니다. 발표의 일부는 한국어, 일부는 영어로 되어있습니다. 
+Here are some presentations I gave in the past. Some are in Korean and some in English.<br>
+아래는 제가 수행한 학술 및 심포지엄 발표의 일부입니다. 발표는 한국어와 영어로 되어있습니다. 
 
 ***
 ##### 2024-Apr-30 우리나라의 코로나19로 인한 초과 사망의 원인과 대책
