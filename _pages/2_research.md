@@ -2,92 +2,79 @@
 layout: page
 title: Research
 permalink: /researches/
-image: 08.jpg
+#image: 08.jpg
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+***
+
+### HEADs: Health, Environment, and Disaster studies
+
+I am focusing on evaluating the health effects of unexpected natural disasters or sudden societal changes using the registered data of Korea.
+
+저는 주로 우리사회에서 발생하는 자연 및 환경 재난과 갑작스러운 사회변화가 지역사회 주민에게 미치는 건강영향을 2차자료원을 활용하여 평가하고 있습니다. 
 
 ***
 
-### Headings by default:
-
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+### Research topics
 
 {% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
+Health and environmental effects of: 
+* Cyclones
+* Earthquakes (e.g., 2016 Gyeongju city, 2017 Pohang city)
+* Wildfires (e.g., 2022 uljin wildfire, 2023 Gangreung wildfire)
+* Industrial fires
+* Heavy rainfall and flood
+* COVID-19
+* Ambient particulate matter and temperature exposure
+
 {% endhighlight %}
 
 ***
-
-### Lists
-
-#### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
+### Data sources
 
 {% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
+All secondary data sources particularly including 
+* Mortality data provided by Statistics Korea
+* Nationwide health insurance data of Korea provided by NHIS
+* Governmental air pollution monitoring data 
 {% endhighlight %}
 
 ***
 
-### Quotes
+### Statistical methods
 
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
+{% highlight markdown %}
+Quasi-experimental methods:
+* Difference-in-difference analysis
+* Interrupted time-series analysis
+* Generalized synthetic control analysis 
+* PS matching 
+* G-computation
 
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
+Conventional epidemiological analysis 
+* Cross-sectional and longitudinal data analysis
+* Health impact assessment 
 {% endhighlight %}
 
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 ***
 
-### Images
+### Funded projects 
 
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
+* 2023 K-MEDI Convergence Talent Development Program<br>
+Title: Digital environmental health epidemiological investigation of based on healthcare big data<br>
+Funder: Korea Health Industry Development Institute, Korea<br>
+Period: 2023-2025
+
+* 2023 Outstanding Young Scientist Grant Program <br>
+Title: Health impact assessment for disasters using machine-learning and quasi-experimental methods<br>
+Funder: National Research Fund, Korea<br>
+Period: 2023-2026
+
+* 2021 Outstanding Young Scientist Grant Program <br>
+Title: Health effects of 2017 Pohang City earthquake <br>
+Funder: National Research Fund, Korea<br>
+Period: 2021-2023
+
 
 ***

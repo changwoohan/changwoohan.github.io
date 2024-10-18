@@ -2,19 +2,23 @@
 layout: page
 title: Hello
 permalink: /about/
-image: changwoo_1.jpg
+#image: changwoo_1.jpg
 ---
 
-Hello, I am Changwoo Han. I graduated from Chosun University College of Medicine in Gwangju, Korea, and completed my residency training in preventive medicine, as well as my master’s and doctoral degrees in environmental epidemiology, at Seoul National University College of Medicine. I am currently an associate professor in the Department of Preventive Medicine at Chungnam National University College of Medicine. Now, I am in San Diego, working as a visiting scholar at the Scripps Institution of Oceanography, UCSD.
+![]({{site.baseurl}}/images/changwoo_1.jpg)
+*At Dodger Stadium Sep-22-2024*
+
+
+Hello, I am Changwoo Han. I graduated from Chosun University College of Medicine in Gwangju, Korea, and completed my residency training in preventive medicine, as well as my master’s and doctoral degrees in environmental epidemiology at Seoul National University College of Medicine. I am currently an associate professor in the Department of Preventive Medicine at Chungnam National University College of Medicine. Now, I am in San Diego, working as a visiting scholar at the Scripps Institution of Oceanography, UCSD.
 
 
 I follow <br>
-Ohtani Shohei, San Diego Padres, Ha-Seong Kim, Jung Hoo Lee, Kia Tigers, Lewis Hamilton, MAKTUB
+Ohtani Shohei, San Diego Padres, Ha-Seong Kim, Jung Hoo Lee, Kia Tigers, Lewis Hamilton, and MAKTUB.
 
 ***
 
 #### Education
-<b>2006.03 - 2012.02 Bachelor of Science (Medicine)</b><br>
+<b>2006.03-2012.02 Bachelor of Science (Medicine)</b><br>
 Chosun University College of Medicine, Gwangju, Korea
 
 <b>2014.09-2016.08 Master of Philosophy (Preventive Medicine) </b><br>
