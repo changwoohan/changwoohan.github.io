@@ -25,7 +25,7 @@
 <p class="p1"><span class="s1">{{page.date | date: '%b %d, %Y'}}</span></p>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title | escape }}</b></span></h1>
 <p class="p3"><span class="s2">By <a href="file:///Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/_layouts/%7B%7B%20site.baseurl%20%7D%7D/about/"><span class="s3">{{site.data.settings.author.name}}</span></a></span></p>
-<p class="p1"><span class="s1">{% if page.tags.size &gt;= 1 %}</span></p>
+<p class="p1"><span class="s1">{% if page.tags.size >= 1 %}</span></p>
 <p class="p1"><span class="s1">{% for tag in page.tags %} <a href="file:///Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/_layouts/%7B%7B%20site.baseurl%20%7D%7D/tag/%7B%7B%20tag%20%7C%20downcase%20%7C%20replace:"><span class="s4">{{ tag }}</span></a> {% endfor %}</span></p>
 <p class="p1"><span class="s1">{% endif %}</span></p>
 <p class="p1"><span class="s1">{% assign no-image = nil %} {% if page.image %}</span></p>

@@ -38,5 +38,6 @@ sass:
 collections:
   publications:
     output: true
-  preprints:
+  working:
     output: true
+    layout: archive-double
