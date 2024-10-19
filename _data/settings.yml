@@ -36,7 +36,7 @@ instagram-profile: nejm_han # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: 'G-39XJLV2Q8L' # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
