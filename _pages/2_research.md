@@ -25,7 +25,8 @@ Health and environmental effects of:
 * Industrial fire
 * Heavy rainfall and flood
 * COVID-19
-* Ambient particulate matter and temperature exposure
+* Ambient particulate matter 
+* Ambient temperature 
 
 {% endhighlight %}
 
@@ -33,10 +34,11 @@ Health and environmental effects of:
 ### Data sources
 
 {% highlight markdown %}
-All secondary data sources including
+All secondary data including
 * Mortality data provided by Statistics Korea
 * Nationwide health insurance data of Korea provided by NHIS
 * Governmental air pollution monitoring data 
+* Satellite images
 {% endhighlight %}
 
 ***

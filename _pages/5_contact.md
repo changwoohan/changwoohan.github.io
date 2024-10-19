@@ -23,7 +23,7 @@ Chungnam National University College of Medicine, Room 325
 266, Munhwa-ro, Jung-gu, Daejeon, 35015,  Korea
 Tel) +82-42-580-8263
 Fax) +82-42-583-7561
-E-mail) cwohan@cnu.ac.kr , cwohan@gmail.com
+E-mail) cwohan@cnu.ac.kr
 
 대전광역시 중구 문화로 266  
 충남대학교 의과대학 예방의학교실 325호
@@ -34,13 +34,15 @@ E-mail) cwohan@cnu.ac.kr , cwohan@gmail.com
 
 ### Previous interns 
 {% highlight markdown %}
-2023 Marnpyung Jang, Jaeyoung Yoon, Bolim Lee, and Changyung Kim (CNU med students)
+2023 Marnpyung Jang, Jaeyoung Yoon, Bolim Lee, and Changyung Kim 
+(CNU med students)
 
 # Jang, M., Yoon, J., Yun, Y., Kim, J., Jang, H., Benmarhnia, T., & Han, C. (2024). Changes in healthcare utilization after the 2022 Seoul metropolitan flood: Applying a generalized synthetic control approach. GeoHealth, 8(10), e2024GH001084.
 
 # Han, C., Jang, M., Yoon, J., Lee, B., Kim, J., Jang, H., & Benmarhnia, T. (2024). Estimating the acute health effects of smoke exposure from an urban factory fire accident: a case study of a tire factory fire in Korea. Environmental Health Perspectives, 132(8), 087008.
 
-2022 Hahyeon Kim and Minuk Kil (CNU med students)
+2022 Hahyeon Kim and Minuk Kil 
+(CNU med students)
 
 # Kim, H., Kil, M., & Han, C. (2022). Urinary phthalate metabolites and anemia: findings from the Korean national environmental health survey (2015–2017). Environmental research, 215, 114255.
 
