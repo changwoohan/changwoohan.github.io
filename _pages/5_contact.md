@@ -28,6 +28,10 @@ E-mail) cwohan@cnu.ac.kr
 대전광역시 중구 문화로 266  
 충남대학교 의과대학 예방의학교실 325호
 
+MESOM laboratory Room 110
+8885 Biological Grade, La Jolla, CA 92037
+E-mail) chh083@ucsd.edu
+
 {% endhighlight %}
 
 ***
