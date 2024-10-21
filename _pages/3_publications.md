@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ***
+### Publications
 [Working topics](#wp) | [Peer-reviewed papers](#pr) 
 <br>
 Updated: 30 September 2024
