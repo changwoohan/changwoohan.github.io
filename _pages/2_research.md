@@ -19,9 +19,9 @@ I am focusing on evaluating the health effects of unexpected natural disasters o
 
 {% highlight markdown %}
 Health and environmental effects of: 
-* Cyclone
 * Earthquake 
 * Wildfire 
+* Cyclone
 * Industrial fire
 * Heavy rainfall and flood
 * COVID-19
