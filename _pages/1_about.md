@@ -5,7 +5,7 @@ permalink: /about/
 #image: changwoo_1.jpg
 ---
 
-![]({{site.baseurl}}/images/changwoo_1.jpg)
+![]({{site.baseurl}}/images/1_hello_changwoo.jpg)
 *@ Dodger Stadium Sep-22-2024*
 
 
