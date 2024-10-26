@@ -9,7 +9,7 @@ permalink: /about/
 *@ Dodger Stadium Sep-22-2024*
 
 
-Hello, I am Changwoo Han. I graduated from Chosun University College of Medicine in Gwangju, Korea, and completed my residency training in preventive medicine, as well as my master’s and doctoral degrees in environmental epidemiology at Seoul National University College of Medicine. I am currently an associate professor in the Department of Preventive Medicine at Chungnam National University College of Medicine. Now, I am in San Diego, working as a visiting scholar at the Scripps Institution of Oceanography, UCSD.
+Hello, I am Changwoo Han. I graduated from Chosun University College of Medicine in Gwangju, Korea, and completed my residency training in preventive medicine, as well as my master’s and doctoral degrees in environmental epidemiology at Seoul National University College of Medicine. I am currently an associate professor in the Department of Preventive Medicine at Chungnam National University College of Medicine. Now, I am in San Diego, working as a visiting scholar at the Scripps Institution of Oceanography, University of California San Diego.
 
 
 I follow <br>
