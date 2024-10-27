@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Did the Tire Factory Fire in Daejeon Cause Air Pollution Exposure for Local Residents?"
+title:  "Tire Factory Fire in Daejeon and Air Pollution Exposure of Local Residents"
 date:   2024-10-23 20:21:00
 image:  20241023_1_tirefire_fstation.jpg
 tags: Thoughts Research

@@ -13,7 +13,7 @@ related_en: /en/2024/10/23/tirefactory/
 
 <img src="{{site.baseurl}}/images/20241023_1_tirefire_fstation.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
-2023년 3월 12일 오후 10시 09분 대전광역시에 위치한 한국타이어 공장에서 화재가 발생하였습니다. 화재는 58시간동안 지속되었고, 화재로 인해 제 2공장이 전소되었으며, 타이어 21만개가 소실되었습니다 [[관련기사 1]](https://v.daum.net/v/20230313141529622){:target="\_blank"}. 위 사진과 (대전시 소방본부 제공) 13일 오전 [뉴스영상](https://www.youtube.com/embed/yWlLCndulLc?start=51){:target="\_blank"}을 통해 그 당시 화재가 얼마나 심각하였는지 가늠해 볼 수 있습니다.<br>
+2023년 3월 12일 오후 10시 09분 대전광역시에 위치한 한국타이어 공장에서 화재가 발생하였습니다. 화재는 58시간동안 지속되었고, 화재로 인해 제 2공장이 전소되었으며, 타이어 21만 개가 소실되었습니다 [[관련기사 1]](https://v.daum.net/v/20230313141529622){:target="\_blank"}. 위 사진과 (대전시 소방본부 제공) 13일 오전 [뉴스영상](https://www.youtube.com/embed/yWlLCndulLc?start=51){:target="\_blank"}을 통해 그 당시 화재가 얼마나 심각하였는지 가늠해 볼 수 있습니다.<br>
 
 <img src="{{site.baseurl}}/images/20241023_2_tirefire_NARA.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
@@ -93,7 +93,7 @@ related_en: /en/2024/10/23/tirefactory/
 ##### 내용 정리
 * 2023년 3월 12일 오후 10 시 발생한 한국타이어 공장 화재는 58시간 동안 지속됨
 * 한국타이어 공장 인근에 거주하는 주민들은 화재로 인한 대기오염 피해를 입었을 가능성이 있음
-* 한국타이어 공장에서 500M 거리에 있는 문평동 측정소와 대전시내 다른 대기오염 측정소의 대기오염 측정값을 합성대조군 분서으로 비교한 결과 화재 발생 후 10일간 PM<sub>10</sub>, NO<sub>2</sub>, SO<sub>2</sub>, CO에 대한 초과 대기오염 노출이 확인됨. 
+* 한국타이어 공장에서 500M 거리에 있는 문평동 측정소와 대전시내 다른 대기오염 측정소의 대기오염 측정값을 합성대조군 분석으로 비교한 결과 화재 발생 후 10일간 PM<sub>10</sub>, NO<sub>2</sub>, SO<sub>2</sub>, CO에 대한 초과 대기오염 노출이 확인됨. 
 * 적어도 문평동 측정소 인근에 거주하는 주민들은 화재로 인한 초과 대기오염에 노출되었고, 그에 따른 건강피해가 발생하였을 가능성이 있음. 
 
 <br>
