@@ -19,7 +19,9 @@
   }
 
   
-  @media only screen and (max-width: $mobile) {
-    padding: 40px 0 20px;
-  }
+  @media (max-width: 768px) {
+    .title {
+      text-align: left;     // 핸드폰 화면에서는 왼쪽 정렬
+      font-size: 20px;      // 글자 크기 조정
+      padding-left: 15px;   // 왼쪽에 여백 추가
 }
