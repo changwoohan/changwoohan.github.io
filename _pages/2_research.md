@@ -56,6 +56,10 @@ Quasi-experimental methods:
 Conventional epidemiological methods:
 * Cross-sectional and longitudinal data analysis
 * Health impact assessment 
+
+Machine learning based methods:
+* Anomaly detection 
+
 {% endhighlight %}
 
 

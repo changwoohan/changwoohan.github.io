@@ -2,7 +2,7 @@
 layout: post
 title:  "대전시 한국타이어 공장 화재로 주민들의 대기오염 노출 피해가 발생하였는가?"
 date:   2024-10-23 20:21:00
-image:  20241023_1_tirefire_fstation.jpg
+image:  /20241023_tirefire/1_tirefire_fstation.jpg
 tags: Thoughts Research
 lang: ko
 permalink: /ko/2024/10/23/tirefactory/
@@ -11,11 +11,11 @@ related_en: /en/2024/10/23/tirefactory/
 
 ##### 대전시 한국타이어 공장 화재 발생
 
-<img src="{{site.baseurl}}/images/20241023_1_tirefire_fstation.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/1_tirefire_fstation.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 2023년 3월 12일 오후 10시 09분 대전광역시에 위치한 한국타이어 공장에서 화재가 발생하였습니다. 화재는 58시간동안 지속되었고, 화재로 인해 제 2공장이 전소되었으며, 타이어 21만 개가 소실되었습니다 [[관련기사 1]](https://v.daum.net/v/20230313141529622){:target="\_blank"}. 위 사진과 (대전시 소방본부 제공) 13일 오전 [뉴스영상](https://www.youtube.com/embed/yWlLCndulLc?start=51){:target="\_blank"}을 통해 그 당시 화재가 얼마나 심각하였는지 가늠해 볼 수 있습니다.<br>
 
-<img src="{{site.baseurl}}/images/20241023_2_tirefire_NARA.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/2_tirefire_NARA.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -23,13 +23,13 @@ related_en: /en/2024/10/23/tirefactory/
 
 </p>
 
-위 사진은 2023년 3월 13일 오전 10시 촬영된 인공위성 사진으로써 인공위성 스타트업 회사인 나라스페이스로부터 제공받았습니다. 위성사진에서도 확인할 수 있듯이 공장에서 발생한 화재 연기가 인근 지역으로 확산해나갔음을 확인할 수 있습니다. [[관련기사 2]](https://v.daum.net/v/8JgUAhEQz6){:target="\_blank"} 에서도 지적하였듯이 공장 주변에는 대전풍림금강엑슬루타워아파트, 금강로하스엘크루, 금강센트럴파크서희스타힐스, 대전동일스위트리버스카이 등 대규모 주거단지가 모여있기에, 해당 지역 주민들이 연기 노출에 의한 직접적인 호흡기계 피해와 갑작스러운 화재재난에 대한 불안감 등을 호소하였을 가능성이 있습니다. <br><br>
+위 사진은 2023년 3월 13일 오전 10시 촬영된 인공위성 사진으로써 인공위성 스타트업 회사인 나라스페이스로부터 제공받았습니다. 위성사진에서도 확인할 수 있듯이 공장에서 발생한 화재 연기가 인근 지역으로 확산해나갔음을 확인할 수 있습니다. [[관련기사 2]](https://v.daum.net/v/8JgUAhEQz6){:target="\_blank"} 에서도 지적하였듯이 공장 주변에는 대규모 주거단지가 모여있기에, 해당 지역 주민들이 연기 노출에 의한 직접적인 호흡기계 피해와 갑작스러운 화재재난에 대한 불안감 등을 호소하였을 가능성이 있습니다. <br><br>
 
 ##### 화재로 인한 대기오염 노출에 대한 정부 조사
 
 공장이 위치한 대덕구는 화재 후 인근지역의 대기 및 수질 검사에서 특이점이 없다고 2023년 3월 17일 발표하였습니다 [[관련기사 3]](https://v.daum.net/v/20230317180928236){:target="\_blank"}. 기사에 따르면 16일 자정부터 24시간 동안 공장 인근 아파트에서 이동측정장비로 대기질을 측정하였고, 아황산가스, 미세먼지, 초미세먼지, 벤젠 등 대기오염 물질이 기준치를 넘지 않았다고 보고하였습니다.
 
-<img src="{{site.baseurl}}/images/20241023_3_tirefire_report.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/3_tirefire_report.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -45,7 +45,7 @@ related_en: /en/2024/10/23/tirefactory/
 
 ###### 측정소 간 단순비교
 
-<img src="{{site.baseurl}}/images/20241023_4_tirefire_djmap.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/4_tirefire_djmap.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -57,7 +57,7 @@ related_en: /en/2024/10/23/tirefactory/
 
 <br>
 
-<img src="{{site.baseurl}}/images/20241023_5_tirefire_monitor.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/5_tirefire_monitor.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -79,11 +79,11 @@ related_en: /en/2024/10/23/tirefactory/
 
 
 
-<img src="{{site.baseurl}}/images/20241023_6_tirefire_gsynth_ap.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/6_tirefire_gsynth_ap.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 <p style="text-align: center; color: #808080; font-size: 14px;">
 타이어 공장 화재 전후 일별 대기오염 물질 측정 농도, exposed: 문평동 측정소, control: 합성대조군 </p>
 
-<img src="{{site.baseurl}}/images/20241023_7_tirefire_gsynth_ap_table.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/7_tirefire_gsynth_ap_table.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 <p style="text-align: center; color: #808080; font-size: 14px;">
 타이어 공장 화재 전후 문평동 측정소에서 초과 측정된 대기오염 농도의 추산 </p>
 <br>
@@ -103,3 +103,16 @@ related_en: /en/2024/10/23/tirefactory/
 Han, C., Jang, M., Yoon, J., Lee, B., Kim, J., Jang, H., & Benmarhnia, T. (2024). Estimating the acute health effects of smoke exposure from an urban factory fire accident: a case study of a tire factory fire in Korea. Environmental Health Perspectives, 132(8), 087008. <br><br>
 
 이 저작물은 [크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)에 따라 보호됩니다. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+<style>
+/* 본문 및 헤딩에서 자연스러운 줄바꿈 설정 */
+body, p, h1, h2, h3, h4, h5, h6 {
+    word-break: keep-all;
+    line-break: auto;
+}
+
+/* 제목(h1) 왼쪽 정렬 */
+h1.post-title {
+    text-align: left;
+}
+</style>

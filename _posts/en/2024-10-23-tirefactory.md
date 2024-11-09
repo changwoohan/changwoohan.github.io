@@ -2,7 +2,7 @@
 layout: post
 title:  "Tire Factory Fire in Daejeon and Air Pollution Exposure of Local Residents"
 date:   2024-10-23 20:21:00
-image:  20241023_1_tirefire_fstation.jpg
+image:  /20241023_tirefire/1_tirefire_fstation.jpg
 tags: Thoughts Research
 lang: en
 permalink: /en/2024/10/23/tirefactory/
@@ -11,11 +11,11 @@ related_ko: /ko/2024/10/23/tirefactory/
 
 ##### Tire Factory Fire in Daejeon
 
-<img src="{{site.baseurl}}/images/20241023_1_tirefire_fstation.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/1_tirefire_fstation.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 On March 12, 2023, at 10:09 PM, a fire broke out at the Hankook Tire factory in Daejeon, South Korea. The fire lasted 58 hours, completely destroying the second plant and consuming 210,000 tires [[News article 1]](https://v.daum.net/v/20230313141529622){:target="\_blank"}. The above photo (provided by the Daejeon Fire Department) and a [news video](https://www.youtube.com/embed/yWlLCndulLc?start=51){:target="\_blank"} from the morning of the 13th give us an idea of the fire's severity at that time.<br>
 
-<img src="{{site.baseurl}}/images/20241023_2_tirefire_NARA.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/2_tirefire_NARA.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -29,7 +29,7 @@ The above satellite image, taken at 10:00 AM on March 13, 2023, was provided by 
 
 The local government of Daedeok-gu, where the factory is located, announced on March 17, 2023, that there were no notable findings in air and water quality tests conducted in the vicinity following the fire [[News article 3]](https://v.daum.net/v/20230317180928236){:target="\_blank"}. According to the report, air quality was monitored at a nearby apartment using mobile measurement equipment for 24 hours starting at midnight on the 16th, measuring pollutants like sulfur dioxide, particulate matter, benzene, and others, all of which reportedly did not exceed standards.
 
-<img src="{{site.baseurl}}/images/20241023_3_tirefire_report.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/3_tirefire_report.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -45,7 +45,7 @@ However, the mobile monitoring station was located in Geumgang Exelu Tower Apart
 
 ##### Simple Comparison Between Monitoring Stations
 
-<img src="{{site.baseurl}}/images/20241023_4_tirefire_djmap.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/4_tirefire_djmap.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -57,7 +57,7 @@ How much additional air pollution were local residents exposed to due to the fir
 
 <br>
 
-<img src="{{site.baseurl}}/images/20241023_5_tirefire_monitor.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/5_tirefire_monitor.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 <p style="text-align: center; color: #808080; font-size: 14px;">
 
@@ -77,11 +77,11 @@ This is where the Generalized Synthetic Control Method comes in. This method syn
 
 In the case of the tire factory fire in Daejeon, we can apply this analysis method by treating the Munpyeong-dong station, located near the fire, as City A, and the other 10 air pollution monitoring stations in Daejeon as the control cities to create the synthetic control. We synthesized the synthetic control using daily air pollution data from January 1, 2023, to March 12, 2023, and compared air pollution levels between Munpyeong-dong station and the synthetic control group over the 3 days of the fire (March 13–15, 2023) and the 10 days following the fire (March 13–22, 2023). <br><br>
 
-<img src="{{site.baseurl}}/images/20241023_6_tirefire_gsynth_ap.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/6_tirefire_gsynth_ap.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 <p style="text-align: center; color: #808080; font-size: 14px;">
 Daily air pollution levels before and after the tire factory fire, exposed: Munpyeong-dong station, control: synthetic control </p>
 
-<img src="{{site.baseurl}}/images/20241023_7_tirefire_gsynth_ap_table.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+<img src="{{site.baseurl}}/images/20241023_tirefire/7_tirefire_gsynth_ap_table.png" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 <p style="text-align: center; color: #808080; font-size: 14px;">
 Estimated excess air pollution concentrations observed at Munpyeong-dong station before and after the tire factory fire </p>
 <br>
@@ -101,3 +101,19 @@ For further details, refer to this [[Paper]](https://ehp.niehs.nih.gov/doi/epdf/
 Han, C., Jang, M., Yoon, J., Lee, B., Kim, J., Jang, H., & Benmarhnia, T. (2024). Estimating the acute health effects of smoke exposure from an urban factory fire accident: a case study of a tire factory fire in Korea. Environmental Health Perspectives, 132(8), 087008. <br><br>
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+<style>
+/* 본문 및 헤딩에서 자연스러운 줄바꿈 설정 */
+body, p, h1, h2, h3, h4, h5, h6 {
+    word-break: keep-all;
+    line-break: auto;
+}
+
+/* 제목(h1) 왼쪽 정렬 */
+h1.post-title {
+    text-align: left;
+}
+</style>
+

@@ -5,7 +5,7 @@ permalink: /about/
 #image: changwoo_1.jpg
 ---
 
-![]({{site.baseurl}}/images/1_hello_changwoo.jpg)
+![]({{site.baseurl}}/images/20241017_intro/dodger_changwoo.jpg)
 *@ Dodger Stadium Sep-22-2024*
 
 
@@ -53,3 +53,17 @@ Scripps Institution of Oceanography, University of California San Diego, La Joll
 
 ***
 안녕하세요, 저는 충남대학교 의과대학 예방의학교실에서 부교수로 재직하고 있는 한창우 입니다. 저는 조선대학교 의과대학을 졸업하고 서울대학교 의과대학 예방의학교실에서 예방의학 전문의 수련과 석사 및 박사 학위를 받았습니다. 지금은 미국 샌디에고 스크립스 해양과학 연구소에서 방문교수로 일하고 있습니다.  
+
+
+<style>
+/* 본문 및 헤딩에서 자연스러운 줄바꿈 설정 */
+body, p, h1, h2, h3, h4, h5, h6 {
+    word-break: keep-all;
+    line-break: auto;
+}
+
+/* 제목(h1) 왼쪽 정렬 */
+h1.post-title {
+    text-align: left;
+}
+</style>
