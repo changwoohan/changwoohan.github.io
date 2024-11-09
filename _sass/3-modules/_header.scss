@@ -152,3 +152,15 @@
     }
   }
 }
+
+/* 모든 화면에서 기본 제목 왼쪽 정렬 */
+h1.post-title-left {
+  text-align: left !important;
+}
+
+/* 작은 화면(스마트폰)에서도 왼쪽 정렬을 유지 */
+@media (max-width: 768px) {
+  h1.post-title-left {
+    text-align: left !important;
+  }
+}

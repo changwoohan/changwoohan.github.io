@@ -111,6 +111,9 @@ body, p, h1, h2, h3, h4, h5, h6 {
     line-break: auto;
 }
 
+<!-- 제목 표시 - CSS 클래스 사용 -->
+<h1 class="post-title-left">{{ page.title | escape }}</h1>
+
 /* 제목(h1) 왼쪽 정렬 */
 h1.post-title, .post h1 {
     text-align: left !important;
