@@ -75,26 +75,26 @@ blockquote {
   text-align: center;
 }
 
-  @media only screen and (max-width: 767px) {
-    body {
-        font-size: 20px; // 기존보다 한 단계 증가한 글씨 크기
-        line-height: 1.8; // 줄간격을 약간 더 넓게 설정
-    }
+@media only screen and (max-width: 767px) {
+  body {
+      font-size: 18px; // 모바일에서도 폰트 크기 증가
+      line-height: 1.8; // 모바일 줄 간격 증가
+  }
 
-    h1 {
-        font-size: 26px; // 헤딩 1 크기를 한 단계 증가
-        line-height: 1.4; // 헤딩에 대한 줄간격 설정
-    }
+  h1 {
+      font-size: 30px; // 모바일에서 헤딩 1 크기 증가
+      line-height: 1.4;
+  }
 
-    h2 {
-        font-size: 22px; // 헤딩 2 크기를 한 단계 증가
-        line-height: 1.5; // 헤딩 2 줄간격
-    }
+  h2 {
+      font-size: 26px; // 모바일에서 헤딩 2 크기 증가
+      line-height: 1.5;
+  }
 
-    p {
-        font-size: 20px; // 본문 글씨 크기를 한 단계 증가
-        line-height: 1.6; // 본문 줄간격을 조금 더 넓게 설정
-    }
+  p {
+      font-size: 18px; // 모바일 본문 글씨 크기 증가
+      line-height: 1.6;
+  }
 }
 
 
