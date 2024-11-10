@@ -11,7 +11,7 @@ author:
   name: Changwoo Han
   image: /20241017_intro/id_changwoo.jpg #1_main_changwoo.jpg
   say-hello: Hello, I’m <strong>Changwoo Han</strong>.
-  bio: I am a medical doctor and an environmental epidemiologist who researches <strong>the health effects of natural and environmental disasters</strong> using quasi-experimental methods. <br>  I share my researches, thoughts and daily life with this blog. I love watching baseball games and spending time with my wife, Judy.<br><br> 안녕하세요. 저는 환경역학을 전공하고 있는 한창우 입니다. 저는 산불, 태풍, 지진, 대형화재 등 우리나라에서 발생하는 기후환경 재난의 건강영향을 준실험론적 역학연구방법론을 활용하여 연구하고 있습니다. 
+  bio: I am a medical doctor and an environmental epidemiologist who researches <strong>the health effects of natural and environmental disasters</strong> using quasi-experimental methods. <br>  I share my researches, thoughts and daily life with this blog. I love watching baseball games and spending time with my wife, Judy.<br><br> 안녕하세요. 저는 환경역학을 전공하고 있는 예방의학 전문의 한창우 입니다. 저는 산불, 태풍, 지진, 대형화재 등 우리나라에서 발생하는 기후환경 재난의 건강영향을 준실험론적 역학연구방법론을 활용하여 연구하고 있습니다. 
 
 
 
@@ -42,4 +42,5 @@ google-analytics: 'G-39XJLV2Q8L' # Add your identifier. For example UA-99631805-
 #-------------------------------
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
 
