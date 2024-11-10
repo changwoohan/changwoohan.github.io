@@ -225,6 +225,28 @@
   }
 }
 
+@media only screen and (max-width: 767px) {
+  .post-content {
+      font-size: 18px; // 포스트 본문 기본 글씨 크기 증가
+      line-height: 1.8; // 줄간격을 넓게 설정
+  }
+
+  .post-content h1 {
+      font-size: 26px; // 헤딩 1 글씨 크기 증가
+      line-height: 1.4;
+  }
+
+  .post-content h2 {
+      font-size: 22px; // 헤딩 2 글씨 크기 증가
+      line-height: 1.5;
+  }
+
+  .post-content p {
+      font-size: 16px; // 본문 글씨 크기
+      line-height: 1.6;
+  }
+}
+
 .comments {
   margin-bottom: 80px;
 
