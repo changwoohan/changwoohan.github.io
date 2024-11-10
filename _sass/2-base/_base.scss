@@ -76,7 +76,7 @@ blockquote {
   
   @media only screen and (max-width: 767px) {
     body {
-        font-size: 18px; // 기존보다 한 단계 증가한 글씨 크기
+        font-size: 20px; // 기존보다 한 단계 증가한 글씨 크기
         line-height: 1.8; // 줄간격을 약간 더 넓게 설정
     }
 
@@ -91,7 +91,7 @@ blockquote {
     }
 
     p {
-        font-size: 16px; // 본문 글씨 크기를 한 단계 증가
+        font-size: 20px; // 본문 글씨 크기를 한 단계 증가
         line-height: 1.6; // 본문 줄간격을 조금 더 넓게 설정
     }
 }
