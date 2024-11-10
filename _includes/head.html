@@ -9,15 +9,29 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <!-- Fonts -->
+  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
 
+  <!-- Naver Font (Nanum Gothic) -->
   <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
+    /* Nanum Gothic 폰트 적용 */
+    @font-face {
+        font-family: 'NanumGothic';
+        src: url('{{ "/assets/fonts/NanumGothic.ttf" | relative_url }}') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    /* 강제 폰트 적용 테스트 */
+    h1, h2, h3, p, .nanum-test {
+        font-family: 'NanumGothic', sans-serif !important;
+    }
+
+    {% capture include_to_scssify %}
+      {% include main.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
   </style>
 </head>
