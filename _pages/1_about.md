@@ -46,7 +46,7 @@ Department of Preventive Medicine, Chungnam National University College of Medic
 <b>2023.09-present Associate professor</b><br>
 Department of Preventive Medicine, Chungnam National University College of Medicine, Daejeon, Korea
 
-<b>2024.01-present Visiting scholar</b><br>
+<b>2024.01-2024.07 Visiting scholar</b><br>
 Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA
 
 <br>
