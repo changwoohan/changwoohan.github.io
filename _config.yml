@@ -41,3 +41,5 @@ collections:
   working:
     output: true
     layout: archive-double
+  life:
+    output: true  

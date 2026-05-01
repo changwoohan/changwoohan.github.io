@@ -7,7 +7,6 @@ permalink: /posts/
 ***
 ### Reflections and ideas
 [In English](#wp) | [In Korean](#pr) <br>
-Updated: 25 October 2024 <br>
 
 Here, I share reflections and ideas inspired by my interests and research. You can read these entries in both English and Korean. <br>
 
