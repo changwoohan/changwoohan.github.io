@@ -8,7 +8,7 @@ permalink: /publications/
 ### Publications
 [Working topics](#wp) | [Peer-reviewed papers](#pr) 
 <br>
-Updated: 11 October 2025
+Updated: 1 May 2026
 
 The papers listed here are those for which I am either the first author or the corresponding author. You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=0brjiRcAAAAJ&hl=en&oi=ao){:target="\_blank"} profile. † represents equal contribution.
 

@@ -13,7 +13,7 @@ Hello, I am Changwoo Han. I graduated from Chosun University College of Medicine
 
 
 I follow <br>
-Ohtani Shohei, San Diego Padres, Ha-Seong Kim, Jung Hoo Lee, Kia Tigers, Lewis Hamilton, and MAKTUB.
+Ohtani Shohei, San Diego Padres, Jung Hoo Lee, Kia Tigers, Lewis Hamilton, Kawamura Yuki, and MAKTUB.
 
 ***
 

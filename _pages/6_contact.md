@@ -11,7 +11,7 @@ permalink: /contact/
 
 Researchers, graduate students, and undergraduate students who are interested in collaborating with me are welcome to contact me anytime at the email address below.
 
-저와 함께 연구하고싶은 연구자, 대학원생, 대학생은 언제든지 아래의 연락처로 연락부탁드립니다. 
+저와 함께 연구하고싶은 연구자, 대학원생, 대학생은 언제든지 아래의 연락처로 이메일 연락부탁드립니다. 
 
 
 ***

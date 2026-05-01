@@ -1,7 +1,7 @@
 current directory: /Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext
 /Users/nejm_han/.rbenv/versions/3.2.4/bin/ruby extconf.rb --with-openssl-dir\=/opt/homebrew/opt/openssl@3
 -----
-Using OpenSSL from pkg-config -I/opt/homebrew/Cellar/openssl@3/3.6.0/include  && -L/opt/homebrew/Cellar/openssl@3/3.6.0/lib && -lssl -lcrypto
+Using OpenSSL from pkg-config -I/opt/homebrew/Cellar/openssl@3/3.6.2/include  && -L/opt/homebrew/Cellar/openssl@3/3.6.2/lib && -lssl -lcrypto
 -----
 checking for -lcrypto... yes
 checking for -lssl... yes
@@ -30,10 +30,10 @@ CXXFLAGS=-fdeclspec
 creating Makefile
 
 current directory: /Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext
-make DESTDIR\= sitearchdir\=./.gem.20251011-43933-wjva6f sitelibdir\=./.gem.20251011-43933-wjva6f clean
+make DESTDIR\= sitearchdir\=./.gem.20260501-29925-z7t7mk sitelibdir\=./.gem.20260501-29925-z7t7mk clean
 
 current directory: /Users/nejm_han/Dropbox/Mac/Documents/GitHub/changwoohan.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext
-make DESTDIR\= sitearchdir\=./.gem.20251011-43933-wjva6f sitelibdir\=./.gem.20251011-43933-wjva6f
+make DESTDIR\= sitearchdir\=./.gem.20260501-29925-z7t7mk sitelibdir\=./.gem.20260501-29925-z7t7mk
 compiling binder.cpp
 make: *** [binder.o] Error 1
 

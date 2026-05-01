@@ -67,6 +67,11 @@ Machine learning based methods:
 
 ### Funded projects 
 
+* 2026 Young Scientist Grant Program (Type B) <br>
+Title: Establishing a health impact assessment framework for wildfire disasters<br>
+Funder: National Research Fund, Korea<br>
+Period: 2026-2030
+
 * 2023 K-MEDI Convergence Talent Development Program<br>
 Title: Digital environmental health epidemiological investigation of based on healthcare big data<br>
 Funder: Korea Health Industry Development Institute, Korea<br>

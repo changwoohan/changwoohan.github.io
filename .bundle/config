@@ -1,4 +1,5 @@
 ---
-BUNDLE_BUILD__EVENTMACHINE: "--with-openssl-dir=/opt/homebrew/opt/openssl@3"
+BUNDLE_BUILD__EVENTMACHINE: "--with-cppflags=-I/opt/homebrew/opt/openssl@3/include --with-ldflags=-L/opt/homebrew/opt/openssl@3/lib"
 BUNDLE_FORCE_RUBY_PLATFORM: "true"
 BUNDLE_PATH: "vendor/bundle"
+BUNDLE_BUILD__HTTP_PARSER__RB: "--with-cflags=-Wno-error=implicit-function-declaration"
