@@ -1,9 +1,25 @@
 [
   
     {
+      "title"    : "노동절",
+      "category" : "",
+      "tags"     : "Dailylife",
+      "url"      : "/ko/2026/05/01/",
+      "date"     : "1 May, 2026"
+    } ,
+  
+    {
+      "title"    : "Labor day",
+      "category" : "",
+      "tags"     : "Dailylife",
+      "url"      : "/en/2026/05/01/",
+      "date"     : "1 May, 2026"
+    } ,
+  
+    {
       "title"    : "2017년 포항시 지진은 주민들의 정신건강에 영향을 주었을까?",
       "category" : "",
-      "tags"     : "Thoughts and Research",
+      "tags"     : "Research",
       "url"      : "/ko/2024/11/01/pohangeq/",
       "date"     : "1 Nov, 2024"
     } ,
@@ -11,7 +27,7 @@
     {
       "title"    : "Did the 2017 Pohang earthquake affect the mental health of residents?",
       "category" : "",
-      "tags"     : "Thoughts and Research",
+      "tags"     : "Research",
       "url"      : "/en/2024/11/01/pohangeq/",
       "date"     : "1 Nov, 2024"
     } ,
@@ -19,7 +35,7 @@
     {
       "title"    : "대전시 한국타이어 공장 화재로 주민들의 대기오염 노출 피해가 발생하였는가?",
       "category" : "",
-      "tags"     : "Thoughts and Research",
+      "tags"     : "Research",
       "url"      : "/ko/2024/10/23/tirefactory/",
       "date"     : "23 Oct, 2024"
     } ,
@@ -27,7 +43,7 @@
     {
       "title"    : "Tire Factory Fire in Daejeon and Air Pollution Exposure of Local Residents",
       "category" : "",
-      "tags"     : "Thoughts and Research",
+      "tags"     : "Research",
       "url"      : "/en/2024/10/23/tirefactory/",
       "date"     : "23 Oct, 2024"
     } ,

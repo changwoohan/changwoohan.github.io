@@ -3,7 +3,7 @@ layout: post
 title:  "대전시 한국타이어 공장 화재로 주민들의 대기오염 노출 피해가 발생하였는가?"
 date:   2024-10-23 20:21:00
 image:  /20241023_tirefire/1_tirefire_fstation.jpg
-tags: Thoughts Research
+tags: Research
 lang: ko
 permalink: /ko/2024/10/23/tirefactory/
 related_en: /en/2024/10/23/tirefactory/

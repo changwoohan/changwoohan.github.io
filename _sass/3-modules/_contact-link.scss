@@ -7,8 +7,24 @@
       a {
         font-size: 18px;
         color: $gray;
+
+        /* 🔥 여기 추가 */
+        img,
+        svg {
+          width: 18px;
+          height: 18px;
+          vertical-align: middle;
+          opacity: 0.6;
+        }
+
         &:hover {
           color: $dark;
+
+          /* 🔥 hover 효과 */
+          img,
+          svg {
+            opacity: 1;
+          }
         }
       }
     }
