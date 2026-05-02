@@ -5,6 +5,7 @@ permalink: /life/
 ---
 
 ***
+
 ### Life
 
 Here, I share daily moments, personal reflections, and small notes from everyday life.
@@ -13,24 +14,31 @@ Here, I share daily moments, personal reflections, and small notes from everyday
 
 ***
 
-<ul>
+<ul class="threads-simple">
+  {% assign threads_posts = site.data.threads | sort: "date" | reverse %}
 
-  {% assign life_posts = site.life | sort: "date" | reverse %}
-
-  {% for post in life_posts %}
-
+  {% for post in threads_posts %}
     <li>
-
-      {{ post.date | date: "%B %d, %Y" }} —
-
-      <a href="{{ post.url | relative_url }}">
-
+      {{ post.date | date: "%Y.%m.%d" }} —
+      <a href="{{ post.url }}" target="_blank" rel="noopener">
         {{ post.title }}
-
       </a>
-
     </li>
-
   {% endfor %}
-
 </ul>
+
+<style>
+.threads-simple {
+  list-style: none;
+  padding-left: 0;
+}
+
+.threads-simple li {
+  margin-bottom: 0.6rem;
+}
+
+.threads-simple a {
+  text-decoration: none;
+  font-weight: 500;
+}
+</style>
