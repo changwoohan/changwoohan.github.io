@@ -12,6 +12,19 @@ Here are some talks I gave in the past. Some are in Korean and some in English.<
 
 
 ***
+##### 2025-May-03 우리나라 의정갈등과 초과사망
+###### Excess mortality associated with the government–physician conflict in Korea
+<iframe 
+  width="560" 
+  height="315"
+  src="https://www.youtube.com/embed/b1XyUhhwf-Q?start=2" 
+  title="YouTube video player" 
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+***
 ##### 2024-Aug-07 Excess mortality due to tropical cyclone exposure in Korea
 ###### 태풍 노출에 따른 한국인 사망의 변화
 <iframe src="https://www.youtube.com/embed/diT3ylzz_WQ?start=21" frameborder="0" allowfullscreen></iframe>
