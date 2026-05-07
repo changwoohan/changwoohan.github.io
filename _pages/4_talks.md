@@ -10,6 +10,16 @@ permalink: /talks/
 Here are some talks I gave in the past. Some are in Korean and some in English.<br>
 아래는 제가 수행한 학술 및 심포지엄 발표의 일부입니다. 발표는 한국어와 영어로 되어있습니다. 
 
+***
+##### 2026-May-02 산불 노출 주민의 건강영향 평가 결과 및 평가체계 제언
+###### Health Impact Assessment of Wildfire-Exposed Residents and Recommendations for a Systematic Evaluation Framework
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/E317CoOr3mc" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 ***
 ##### 2025-May-03 우리나라 의정갈등과 초과사망
